@@ -31,6 +31,13 @@ should return 0
 
 should return 6
 
+
+#### Example 5:
+| 0   | 1   | 1   | 1   | 0   | 1   | 1   | 
+|-----|-----|-----|-----|-----|-----|-----|
+
+should return 3
+
 ## Exercise 2
 
 What are the differences between `linked lists` and `arrays`?
